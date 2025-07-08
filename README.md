@@ -1,4 +1,4 @@
-# Movie-sales-Analysis---using-power-Bi
+# Movie-sales-Analysis: using power BI
 Power Bi desktop for movie sales Analysis
 Overview
 This project aims to transform a dataset showing movie sales over time into an interactive visual experience using Power BI. The dataset used is from IMDb and Kaggle, covering movie data from 2006 to 2016. The dataset includes movies with an IMDb score of 6 or higher and contains parameters such as Budget, Gross, Genre, and Scores.
